@@ -1,5 +1,5 @@
 # AdvertisementBot
-An advertisement bot for twitter.
+Advertisement bot searches thru all twitter public stream for given keywords, when bot finds a match replys with given content.
 
 
 # Usage
